@@ -1,10 +1,10 @@
-package com.example.simplecalc;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.example.simplecalc.view;
 
 import android.os.Bundle;
+import androidx.appcompat.app.AppCompatActivity;
+import com.example.simplecalc.R;
 
-public class MainActivity extends AppCompatActivity {
+public class calcActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
