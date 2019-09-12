@@ -9,13 +9,19 @@
     </style>
 
     <style name="calcButton">
-        <item name="android:layout_width">42dp</item>
-        <item name="android:layout_height">42dp</item>
-        <item name="android:textSize">25sp</item>
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">90dp</item>
+        <item name="android:textSize">35sp</item>
+    </style>
+
+    <style name="calcZero">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">90dp</item>
+        <item name="android:textSize">35sp</item>
     </style>
 
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
-    <dimen name="activity_vertical_margin">44dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
 
 </resources>
